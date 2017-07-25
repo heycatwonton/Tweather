@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/catwong/Desktop/accesscode/TwitterCodeChallenge for Cat Wong/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29b8f17037c8db97d4a7389cbce64574c9e7eb7e">
+        <dex dex="/Users/catwong/Desktop/accesscode/TwitterCodeChallenge for Cat Wong/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75621278ae30554db059f67a9ac2ee8307a89798/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/catwong/Desktop/accesscode/TwitterCodeChallenge for Cat Wong/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/catwong/Desktop/accesscode/TwitterCodeChallenge for Cat Wong/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d9d1ee16247fc74447619a02add954a85e9c046/classes.dex" />
+    </item>
+
+</items>

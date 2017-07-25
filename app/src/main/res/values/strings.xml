@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tweather</string>
+    <string name="current_city">Current City</string>
+    <string name="five_day_forecast">Get 5-day Forecast</string>
+    <string name="std_dev">Standard Deviation: </string>
+    <string name="mph">MPH</string>
+    <string name="wind_speed">WIND SPEED</string>
+
+
+</resources>
